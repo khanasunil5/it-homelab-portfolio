@@ -7,4 +7,7 @@ Domain join and authentication troubleshooting
 DNS awareness and trust relationship recovery
 Structured IT Support problem-solving and documentation
 
+Full lab repository
+[active directory lab](https://github.com/khanasunil5/active-directory-home-lab)
+
 
