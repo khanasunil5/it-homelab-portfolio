@@ -1,7 +1,7 @@
 # IT Homelab Portfolio
 
 ## Overview
-This repository acts as a central place to showcase the IT home labs I’ve built while preparing for an **entry-level IT Support / Service Desk** role. The focus of these labs is hands-on, practical experience with the kinds of issues typically handled by Service Desk teams, rather than just theory or certifications.
+This repository acts as a central place to showcase the IT home labs I’ve built while preparing for an entry-level IT Support / Service Desk role. The focus of these labs is hands-on, practical experience with the kinds of issues typically handled by Service Desk teams, rather than just theory or certifications.
 
 Each project linked below documents real troubleshooting scenarios, ticket handling, and configuration work carried out in a small Windows domain environment.
 
